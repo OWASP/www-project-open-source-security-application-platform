@@ -10,7 +10,5 @@ pitch: A very brief, one-line description of your project
 ---
 
 
-## OSSAP - Security Applications Platform
-
 ![logo](assets/images/logo.png)
 
