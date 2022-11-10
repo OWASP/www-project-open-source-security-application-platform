@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Open Source Security Application Platform
+title: OWASP Open Source Security Applications Platform
 tags: example-tag
 level: 2
 type: 
