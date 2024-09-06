@@ -1,2 +1,2 @@
 ### Leaders
-* [Raushan Raj](mailto:shemnt.raj38@gmail.com)
+* [Raushan Raj](mailto:raushan.raj@owasp.org)
